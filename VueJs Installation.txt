@@ -1,0 +1,7 @@
+Vue js Installation
+Install Vue CLI : npm install -g @vue/cli
+Verify Installation: vue --version
+Create a New Project: vue create my-project
+Navigate to Project Folder: cd my-project
+
+run project : npm run serve
